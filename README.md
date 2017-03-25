@@ -1,2 +1,3 @@
-# -CS_With_Android
-Using various skills and concepts from undergraduate curricula to build Android applications.
+# CS_With_Android
+***
+This is a repository with all the Android applications built in the Applied Computer Science with Android workshop with Google. 
