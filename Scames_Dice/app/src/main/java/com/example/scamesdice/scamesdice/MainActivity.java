@@ -155,12 +155,10 @@ public class MainActivity extends AppCompatActivity {
     private boolean check_score_for_winner(){
         if(user_overall_score >= 100){
             enable_roll_and_hold(false);
-            reset_overall_score();
             score_status.setText("Your score: "+user_overall_score+" Computer score: " + computer_overall_score + " User wins! :D");
             return true;
         } else if (computer_overall_score >= 100){
             enable_roll_and_hold(false);
-            reset_overall_score();
             score_status.setText("Your score: "+user_overall_score+" Computer score: " + computer_overall_score + " Computer wins! D:");
             return true;
         } else {
