@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Scame\'s Dice</string>
-    <string name="score_txt">Your score: 0 Computer score: 0</string>
-    <string name="roll_btn_txt">Roll</string>
-    <string name="hold_btn_txt">Hold</string>
-    <string name="reset_btn_txt">Reset</string>
-</resources>
