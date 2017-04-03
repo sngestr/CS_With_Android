@@ -1,11 +1,9 @@
-WordStack is an android application where you are given a jumble up word that is build upon the mixture of letters from two 
-words of the same length. The user will have to find the two words by dragging each letter to two different message boxes.
+The app for this workshop is a single-user word game called WordStack. The idea of the game is to try to separate out two words
+of the same length whose letters have been scrambled (but the order of the letters has been preserved). For example, 'cat' and
+'dog' might get scrambled in many ways but 'c' will always come before 'a' and 'a' will always come before 't'. Similarly, 'd' 
+will always come before 'o' and 'o' will always come before 'g'.
 
 ###
 This workshop is part of the Applied CS with Android course:
 
 http://g.co/cswithandroid
-
-Check the website for detailed instructions on how to implement this activity.
-
-Version 1.0
