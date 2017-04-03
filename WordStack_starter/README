@@ -1,4 +1,7 @@
-This is the starter code for the WordStack workshop. 
+WordStack is an android application where you are given a jumble up word that is build upon the mixture of letters from two 
+words of the same length. The user will have to find the two words by dragging each letter to two different message boxes.
+
+###
 This workshop is part of the Applied CS with Android course:
 
 http://g.co/cswithandroid
